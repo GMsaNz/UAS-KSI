@@ -66,8 +66,8 @@ Aplikasi ini dirancang dengan memperhatikan **tiga pilar utama keamanan informas
 ## 🧪 Cara Menjalankan Aplikasi
 
 ```bash
-git clone https://github.com/username/seminar-online.git
-cd seminar-online
+git clone https://github.com/GMsaNz/UAS-KSI.git
+cd UAS-KSI
 
 composer install
 cp .env.example .env
