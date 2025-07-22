@@ -91,5 +91,5 @@ php artisan serve
 ---
 
 ## 📃 File Tambahan
-STUDI KASUS DAN JAWABAN UAS-KSI.docx
-berisi studi kasus dan jawaban soal UAS
+[STUDI KASUS DAN JAWABAN UAS-KSI.docx](https://github.com/GMsaNz/UAS-KSI/blob/main/STUDI%20KASUS%20DAN%20JAWABAN%20UAS-KSI.docx)
+- berisi studi kasus dan jawaban soal UAS
