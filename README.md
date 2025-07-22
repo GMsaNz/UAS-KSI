@@ -90,6 +90,6 @@ php artisan serve
 
 ---
 
-## 📃 Lisensi
-
-Proyek ini dikembangkan sebagai tugas akademik dan tidak untuk tujuan komersial.
+## 📃 File Tambahan
+STUDI KASUS DAN JAWABAN UAS-KSI.docx
+berisi studi kasus dan jawaban soal UAS
